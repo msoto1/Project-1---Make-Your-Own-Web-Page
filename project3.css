@@ -1,0 +1,41 @@
+
+
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.global{
+	background-image: url("images/fadingbackground.jpg");
+	border: 5px solid white;
+}
+.header {
+	font-size: 35px;
+	border: 30px solid #0088db;
+	padding-bottom: 5px;
+	display: -webkit-flex
+	display: flex;
+	text-align: center;
+}
+
+.lesson {
+	border: 35px solid #0088dd;
+	padding: 10px;
+	font-size: 20px;
+	padding-right: 5px;
+
+}
+
+h2{
+	font-weight: bold;
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+
+h3{
+	font-style: italic;
+}
+
