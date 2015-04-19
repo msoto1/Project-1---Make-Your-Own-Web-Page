@@ -1,3 +1,3 @@
 # Project-1---Make-Your-Own-Web-Page
-Project 1 Stage 1
+Project Stage 3
 Udacity Introduction to Programming
